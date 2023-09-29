@@ -1,0 +1,60 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ],
+    [
+      "Society",
+      "Asian Studies"
+    ],
+    [
+      "Society",
+      "Women's Studies"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "legacy_uid": "ec4bce58-ffce-5263-76f1-90d73ba344ec",
+  "instructors": {
+    "content": [
+      "a5124ee9-c86b-23b8-e945-c3deca35d08f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4870159c-9a28-3382-e102-1488712b0bef",
+    "website": "21h-575j-women-in-south-asia-from-1800-to-present-fall-2006"
+  },
+  "course_title": "Women in South Asia from 1800 to Present",
+  "course_description": "This course is designed to introduce and help students understand the changes and continuities in the lives of women in South Asia from a historical perspective. Using gender as a lens of examining the past, we will examine how politics of race, class, caste and religion affected and continue to impact women in South Asian countries, primarily in India, Pakistan, Bangladesh and Sri Lanka. We will reflect upon current debates within South Asian women's history in order to examine some of the issues and problems that arise in re-writing the past from a gendered perspective and these are found in primary documents, secondary readings, films, newspaper articles, and the Internet.\n",
+  "department_numbers": [
+    "21H",
+    "WGS"
+  ],
+  "extra_course_numbers": "WGS.459J",
+  "primary_course_number": "21H.575J",
+  "course_image_thumbnail": {
+    "content": "374888e1-1a01-1ef3-b9f0-34a8fc974cf5",
+    "website": "21h-575j-women-in-south-asia-from-1800-to-present-fall-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "fe4d5c1a-8740-453b-a968-93574f75e68f",
+  "site_short_id": "21h.575j-fall-2006",
+  "title": "Course Metadata"
+}
